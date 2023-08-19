@@ -27,3 +27,6 @@ Then make sure your android is connected and install it with
 ```
 adb install ./app/build/outputs/apk/debug/app-debug.apk
 ```
+
+Or if you trust me you can just download the `twitter.apk` file from this repository
+onto your device and install it manually.
